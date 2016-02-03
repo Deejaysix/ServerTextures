@@ -1,0 +1,5 @@
+name: ServerTextures
+version: 1.0
+main: me.deejaystix.genova.ServerTextures
+description: Kick player if he don't accept the Server Ressource Packs
+depend: [ ResourcePackApi ]

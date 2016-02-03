@@ -1,0 +1,10 @@
+#===============================#
+# Server Textures By Deejaystix # 
+#===============================#
+
+#Kick Message
+MsgKick: You must accept the server Ressource Packs
+#Thanks Message
+MsgThanks: Server Ressource Packs downloading...
+#Download Message
+MsgDownload: Server Ressource Packs is Ready !
